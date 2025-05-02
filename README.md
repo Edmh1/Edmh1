@@ -10,7 +10,7 @@ I enjoy designing backend systems that are clean, secure, and efficient. I'm exp
 - UML diagrams (use case, class)
 - Agile methodologies and team collaboration
 
-I’m a **resilient**, **curious**, and **team-oriented** person who excels at creating **meaningful solutions**. I believe in the power of learning through experience, constantly improving, and always giving my best.
+I’m a **resilient**, **curious**, and **team-oriented** person who excels at creating **meaningful solutions**. I believe in the power of learning through experience, constantly improving and always giving my best.
 
 ---
 
