@@ -27,7 +27,7 @@ I’m a **resilient**, **curious**, and **team-oriented** person who excels at c
 
 ---
 
-### 🗣️ Jedi Dev Code
+### 🗣️ Dev Code
 
 - *"Do. Or do not. There is no try."* – Yoda
 - *"Clean code is the way"* - Din Djarin. 
