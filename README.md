@@ -30,7 +30,7 @@ I’m a **resilient**, **curious**, and **team-oriented** person who excels at c
 ### 🗣️ Jedi Dev Code
 
 - *"Do. Or do not. There is no try."* – Yoda
-- *"I believe clean code is the way of the Jedi"* - Din Djarin. 
+- *"Clean code is the way"* - Din Djarin. 
 
 <p align="center">
   <img src="gifs/luke-vader.gif" alt="Luke-Vader Fight" width="400"/>
